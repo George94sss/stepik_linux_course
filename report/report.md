@@ -71,7 +71,7 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-![img1](image/img_1.png)
+<!-- ![img1](image/img_1.png) -->
 
 # Выводы
 
